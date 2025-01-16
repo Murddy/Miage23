@@ -74,7 +74,7 @@ Dans cet exemple, myMethod est redéfini dans ChildClass. En appelant la méthod
 
 J'ai appris ce concept en regardant le MOOC.
 
-##Alyocha Yahi
+## Alyocha Yahi
 
 ## Amélioration et Explication du Dispatching
 
